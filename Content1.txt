@@ -1,4 +1,6 @@
 This file has
 several lines
 of text with
-no real purpose
+no real purpose.
+Wow!
+That's great
