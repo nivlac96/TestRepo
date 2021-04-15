@@ -4,3 +4,5 @@ of text with
 no real purpose.
 Wow!
 That's great
+
+This will appear on version 1.
